@@ -21,4 +21,4 @@ EXPOSE 8976
 ENV ASPNETCORE_URLS=http://*:8976
 
 ENTRYPOINT ["dotnet","app2.dll"] 
- 
+  
